@@ -1,0 +1,6 @@
+{
+  "name": "Ad-Versary",
+  "description": "Professional Studio & AI-powered Ad Content Quality Swarm Analyzer platform for media properties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
